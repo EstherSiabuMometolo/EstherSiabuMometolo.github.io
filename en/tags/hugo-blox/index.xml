@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | Esther Siabu Mometolo</title>
+    <link>https://EstherSiabuMometolo.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://EstherSiabuMometolo.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://EstherSiabuMometolo.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://EstherSiabuMometolo.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Study Week June 10–16</title>
+      <link>https://EstherSiabuMometolo.github.io/en/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/en/post/04/</guid>
+      <description>&lt;p&gt;📖 &lt;strong&gt;The first exam session is approaching. Time to go all in!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In mathematical logic, we took a mock test. It went fairly well, though I made a couple of logical mistakes — I need to read the conditions more carefully.&lt;/p&gt;
+&lt;p&gt;In analysis, I keep practicing problems on &lt;strong&gt;definite integrals&lt;/strong&gt;. Learned the main techniques: substitution and integration by parts. Lots of practice — and it really helps.&lt;/p&gt;
+&lt;p&gt;In programming, we’re reviewing topics from the first semester: data types, loops, and functions. I’ve been solving problems on Codeforces — I really enjoy the format and pacing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week June 3–9</title>
+      <link>https://EstherSiabuMometolo.github.io/en/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/en/post/03/</guid>
+      <description>&lt;p&gt;💻 &lt;strong&gt;Exam prep has officially started!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In computer science, we reinforced our understanding of functions. During the lecture, we worked on recursion problems — challenging but fascinating! It’s amazing how a function can call itself.&lt;/p&gt;
+&lt;p&gt;In calculus, we began the topic of &lt;strong&gt;function extrema&lt;/strong&gt;. I’m learning how to find critical points and plot graphs. It finally feels like math is coming to life — not just formulas, but real models.&lt;/p&gt;
+&lt;p&gt;In logic, we’re still proving statements. We were given an assignment on mathematical induction — it’s tough so far, but I’m determined to figure it out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 27 – June 2</title>
+      <link>https://EstherSiabuMometolo.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/en/post/02/</guid>
+      <description>&lt;p&gt;🧠 &lt;strong&gt;Logic breaks into daily life!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We started studying &lt;strong&gt;formal systems and laws of logic&lt;/strong&gt;. We’re learning how to build truth tables and prove tautologies. It feels unusual — I can literally feel my thinking becoming more structured.&lt;/p&gt;
+&lt;p&gt;In mathematical analysis, we moved on to &lt;strong&gt;derivatives&lt;/strong&gt;. Practice was quite manageable — the main thing is to remember the rules and keep an eye on the signs.&lt;/p&gt;
+&lt;p&gt;In programming, we had an independent project — to build a program that calculates text statistics. It didn’t work perfectly at first, but the most important part is: I wrote the code myself, no copy-paste!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 20–26</title>
+      <link>https://EstherSiabuMometolo.github.io/en/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/en/post/01/</guid>
+      <description>&lt;p&gt;📚 &lt;strong&gt;This week was all about programming!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In class, we covered the basics of loops and conditional statements in Python. The exercises were quite engaging — especially those that involved processing user input. During the lab, I built a simple calculator for the first time. I made mistakes, fixed them — and that gave me confidence.&lt;/p&gt;
+&lt;p&gt;In mathematical analysis, we started the topic of &lt;strong&gt;sequence limits&lt;/strong&gt;. The theory seems clear at first, but once we got to ε–δ proofs, it became quite a challenge. Fortunately, the professor explained everything with detailed examples.&lt;/p&gt;
+&lt;p&gt;Over the weekend, I reviewed my notes and started creating flashcards in Anki — might come in handy before the exam.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

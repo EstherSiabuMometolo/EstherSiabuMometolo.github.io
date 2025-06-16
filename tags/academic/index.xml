@@ -1,100 +1,449 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/academic/</link>
-      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | Сиабу Мометоло Эстер</title>
+    <link>https://EstherSiabuMometolo.github.io/tags/academic/</link>
+      <atom:link href="https://EstherSiabuMometolo.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://EstherSiabuMometolo.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>https://EstherSiabuMometolo.github.io/tags/academic/</link>
     </image>
     
     <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
-      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <title>Учебная неделя 10–16 июня</title>
+      <link>https://EstherSiabuMometolo.github.io/post/04/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/post/04/</guid>
+      <description>&lt;p&gt;📖 &lt;strong&gt;Первая сессия приближается. Готовимся по полной!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;На математической логике писали пробный тест. Получилось неплохо, но допустила пару логических ошибок — нужно внимательнее читать условия.&lt;/p&gt;
+&lt;p&gt;По анализу продолжаю тренироваться решать задачи на &lt;strong&gt;определённый интеграл&lt;/strong&gt;. Выучила основные методы: подстановка, по частям. Много практики — это помогает.&lt;/p&gt;
+&lt;p&gt;На программировании повторяем темы первого семестра: типы данных, циклы, функции. Решала задачи с Codeforces — нравится формат и динамика.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Автоматизация научных расчётов</title>
+      <link>https://EstherSiabuMometolo.github.io/publication/05/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/publication/05/</guid>
+      <description>&lt;h2 id=&#34;зачем-автоматизировать-научные-расчёты&#34;&gt;Зачем автоматизировать научные расчёты?&lt;/h2&gt;
+&lt;p&gt;В любой исследовательской работе рано или поздно возникает потребность повторять одни и те же действия: запускать модели, обрабатывать данные, строить графики, сохранять результаты. Выполняя их вручную, мы тратим время, допускаем ошибки и затрудняем воспроизводимость экспериментов.&lt;/p&gt;
+&lt;p&gt;Автоматизация научных процессов позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🕒 Сэкономить время на рутинных задачах&lt;/li&gt;
+&lt;li&gt;✅ Уменьшить вероятность ошибок&lt;/li&gt;
+&lt;li&gt;🔄 Повторять расчёты с теми же параметрами (или с новыми)&lt;/li&gt;
+&lt;li&gt;📁 Хранить результаты в структурированном виде&lt;/li&gt;
+&lt;li&gt;🧪 Упростить воспроизводимость эксперимента (reproducibility)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;что-можно-автоматизировать&#34;&gt;Что можно автоматизировать?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Предобработку данных&lt;/strong&gt;: очистку, фильтрацию, нормализацию&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Вызов моделей&lt;/strong&gt;: запуск симуляций, обучение моделей, расчёт метрик&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Генерацию отчётов&lt;/strong&gt;: автоматическое формирование таблиц, графиков, PDF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Сравнение сценариев&lt;/strong&gt;: пакетные запуски с различными параметрами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Сохранение логов и артефактов&lt;/strong&gt;: модели, веса, конфигурации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;инструменты-для-автоматизации&#34;&gt;Инструменты для автоматизации&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Bash, Make, PowerShell&lt;/strong&gt; — для автоматизации на уровне ОС&lt;/li&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — основной язык скриптов и научной логики&lt;/li&gt;
+&lt;li&gt;📦 &lt;strong&gt;Snakemake, Airflow, Luigi&lt;/strong&gt; — для построения научных пайплайнов&lt;/li&gt;
+&lt;li&gt;📓 &lt;strong&gt;Jupyter Notebook + nbconvert&lt;/strong&gt; — для запуска и экспортирования расчётов&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Git + Git Hooks&lt;/strong&gt; — для автоматического запуска проверок и тестов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;принципы-хорошей-автоматизации&#34;&gt;Принципы хорошей автоматизации&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 &lt;strong&gt;Разделение данных, кода и конфигурации&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;📂 &lt;strong&gt;Хранение промежуточных результатов&lt;/strong&gt; для отладки&lt;/li&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Логгирование и учёт версий&lt;/strong&gt; (например, через MLflow, DVC)&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Повторяемость&lt;/strong&gt;: один скрипт = один результат&lt;/li&gt;
+&lt;li&gt;🧱 &lt;strong&gt;Модульность&lt;/strong&gt;: каждый этап расчёта — отдельный блок&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;пример-что-делает-автоматизация-в-реальном-проекте&#34;&gt;Пример: что делает автоматизация в реальном проекте?&lt;/h2&gt;
+&lt;p&gt;Представим, что вы моделируете поведение теплопроводности:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;li&gt;Загружаете и очищаете данные о геометрии тела&lt;/li&gt;
+&lt;li&gt;Параметризуете уравнение теплопереноса&lt;/li&gt;
+&lt;li&gt;Запускаете расчёт методом конечных разностей&lt;/li&gt;
+&lt;li&gt;Сохраняете графики температуры&lt;/li&gt;
+&lt;li&gt;Формируете автоматический PDF-отчёт&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;p&gt;Всё это может быть выполнено &lt;strong&gt;одним скриптом&lt;/strong&gt;, что делает процесс воспроизводимым и понятным для коллег и рецензентов.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Автоматизация — это не просто инструмент комфорта, а один из признаков качественного научного подхода. С её помощью можно быстрее проверять гипотезы, минимизировать ошибки и делиться своей работой в открытом и воспроизводимом виде.&lt;/p&gt;
+&lt;p&gt;Начать просто: автоматизируй хотя бы один повторяющийся шаг — и увидишь, насколько это повышает продуктивность.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная неделя 3–9 июня</title>
+      <link>https://EstherSiabuMometolo.github.io/post/03/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/post/03/</guid>
+      <description>&lt;p&gt;💻 &lt;strong&gt;Подготовка к зачётам началась!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;На информатике закрепляли работу с функциями. На паре решали задачи на рекурсию — сложно, но интересно! Удивительно, как функция может вызывать саму себя.&lt;/p&gt;
+&lt;p&gt;В матане начали тему &lt;strong&gt;экстремумов функций&lt;/strong&gt;. Учусь находить критические точки, строить графики. Кажется, что математика начинает «жить» — не просто формулы, а реальные модели.&lt;/p&gt;
+&lt;p&gt;С логикой продолжаем доказывать высказывания. Задали задание по индукции — пока сложно, но постараюсь разобраться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://EstherSiabuMometolo.github.io/publication/04/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/publication/04/</guid>
+      <description>&lt;h2 id=&#34;что-такое-языки-научного-программирования&#34;&gt;Что такое языки научного программирования?&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования — это инструменты, специально предназначенные (или адаптированные) для решения задач в области вычислительной математики, моделирования, анализа данных, симуляций и автоматизации экспериментов. Они помогают:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📈 Обрабатывать и визуализировать большие объёмы научных данных&lt;/li&gt;
+&lt;li&gt;🔬 Строить модели и проводить численные эксперименты&lt;/li&gt;
+&lt;li&gt;📊 Решать дифференциальные уравнения, оптимизационные и линейные задачи&lt;/li&gt;
+&lt;li&gt;🧪 Управлять оборудованием и экспериментами в лаборатории&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;h2 id=&#34;ключевые-характеристики-научных-языков&#34;&gt;Ключевые характеристики научных языков&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;Высокая точность вычислений (например, поддержка float64 и выше)&lt;/li&gt;
+&lt;li&gt;Наличие численных библиотек и научных пакетов&lt;/li&gt;
+&lt;li&gt;Поддержка матриц, векторов, тензоров&lt;/li&gt;
+&lt;li&gt;Возможность работы с графиками и визуализациями&lt;/li&gt;
+&lt;li&gt;Хорошая интеграция с внешними форматами данных (CSV, HDF5, JSON и др.)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;основные-языки-используемые-в-научной-среде&#34;&gt;Основные языки, используемые в научной среде&lt;/h2&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;Один из самых универсальных и популярных языков в научном сообществе.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;li&gt;Огромное количество научных библиотек: &lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;, &lt;code&gt;SymPy&lt;/code&gt;, &lt;code&gt;scikit-learn&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Удобная экосистема для машинного обучения и анализа данных&lt;/li&gt;
+&lt;li&gt;Хорошо подходит для автоматизации, скриптов и работы с Jupyter Notebook&lt;/li&gt;
+&lt;li&gt;Поддерживает визуализацию, статистику, машинное обучение и численные расчёты&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;h3 id=&#34;matlab&#34;&gt;MATLAB&lt;/h3&gt;
+&lt;p&gt;Коммерческая среда и язык для технических вычислений, активно используемая в инженерии и прикладной математике.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Интуитивная работа с матрицами&lt;/li&gt;
+&lt;li&gt;Инструменты для моделирования, систем управления и обработки сигналов&lt;/li&gt;
+&lt;li&gt;Расширения для симуляции физических процессов (Simulink)&lt;/li&gt;
+&lt;li&gt;Расширенные графические возможности&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fortran&#34;&gt;Fortran&lt;/h3&gt;
+&lt;p&gt;Классический язык научных расчётов, используемый с середины XX века.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Плюсы:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Высокая производительность при работе с численными задачами&lt;/li&gt;
+&lt;li&gt;До сих пор используется в климатическом моделировании, аэродинамике, физике&lt;/li&gt;
+&lt;li&gt;Хорошая поддержка параллельных вычислений (OpenMP, MPI)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Минусы:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Устаревший синтаксис, сложнее изучать новым пользователям&lt;/li&gt;
+&lt;li&gt;Меньшее количество современных библиотек и сообществ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;julia&#34;&gt;Julia&lt;/h3&gt;
+&lt;p&gt;Современный язык, специально созданный для научных и численных задач.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Почти такая же скорость, как у C/Fortran&lt;/li&gt;
+&lt;li&gt;Современный синтаксис, похожий на Python и MATLAB&lt;/li&gt;
+&lt;li&gt;Поддержка многопоточности и GPU&lt;/li&gt;
+&lt;li&gt;Быстрое прототипирование с сохранением высокой производительности&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;p&gt;Язык для статистики и визуализации данных, широко используемый в биоинформатике, социологии и экономике.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Мощные статистические пакеты (&lt;code&gt;ggplot2&lt;/code&gt;, &lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;caret&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Отлично подходит для обработки табличных данных&lt;/li&gt;
+&lt;li&gt;Интеграция с Markdown и RMarkdown для создания научных отчётов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;выбор-языка-от-задачи-к-инструменту&#34;&gt;Выбор языка: от задачи к инструменту&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Задача&lt;/th&gt;
+          &lt;th&gt;Рекомендуемые языки&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Численные методы&lt;/td&gt;
+          &lt;td&gt;Fortran, Julia, Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Статистика и анализ данных&lt;/td&gt;
+          &lt;td&gt;R, Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Машинное обучение&lt;/td&gt;
+          &lt;td&gt;Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Визуализация и отчётность&lt;/td&gt;
+          &lt;td&gt;Python, R, MATLAB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Инженерное моделирование&lt;/td&gt;
+          &lt;td&gt;MATLAB, Fortran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Высокопроизводительные расчёты&lt;/td&gt;
+          &lt;td&gt;Fortran, Julia&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Выбор языка научного программирования зависит от целей, доступных библиотек и требований к производительности. Python стал универсальным стандартом благодаря своей простоте и богатству инструментов. Однако в задачах, где важны скорость и точность, по-прежнему активно применяются Fortran и Julia. MATLAB и R занимают важные ниши в инженерных и статистических направлениях.&lt;/p&gt;
+&lt;p&gt;Важно не только владеть языком, но и уметь правильно использовать его возможности в конкретной исследовательской задаче.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная неделя 27 мая – 2 июня</title>
+      <link>https://EstherSiabuMometolo.github.io/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/post/02/</guid>
+      <description>&lt;p&gt;🧠 &lt;strong&gt;Логика врывается в жизнь!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Начали проходить &lt;strong&gt;формальные системы и законы логики&lt;/strong&gt;. Учимся строить таблицы истинности и доказывать тавтологии. Очень необычно — чувствую, как мышление начинает структурироваться.&lt;/p&gt;
+&lt;p&gt;На математическом анализе пошли &lt;strong&gt;производные&lt;/strong&gt;. Практика оказалась несложной — главное, помнить правила и не терять знаки.&lt;/p&gt;
+&lt;p&gt;Из программирования был самостоятельный проект — нужно было реализовать программу для подсчёта статистики текста. Не всё получилось с первого раза, но главное — сама написала код, без копипаста!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>https://EstherSiabuMometolo.github.io/publication/03/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/publication/03/</guid>
+      <description>&lt;h2 id=&#34;зачем-нужно-правильно-оформлять-отчёты&#34;&gt;Зачем нужно правильно оформлять отчёты?&lt;/h2&gt;
+&lt;p&gt;Оформление отчёта — это не только вопрос внешнего вида, но и средство ясной, логичной и доказательной передачи информации. Грамотно структурированный отчёт помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;донести цели и результаты работы;&lt;/li&gt;
+&lt;li&gt;показать ход рассуждений и логику решения;&lt;/li&gt;
+&lt;li&gt;продемонстрировать владение темой и методологией;&lt;/li&gt;
+&lt;li&gt;упростить восприятие информации для преподавателя, научного руководителя или рецензента.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;виды-отчётов&#34;&gt;Виды отчётов&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 &lt;strong&gt;Лабораторный отчёт&lt;/strong&gt; — отражает ход и результат эксперимента&lt;/li&gt;
+&lt;li&gt;📗 &lt;strong&gt;Отчёт по практике&lt;/strong&gt; — описание профессиональной деятельности и приобретённых навыков&lt;/li&gt;
+&lt;li&gt;📙 &lt;strong&gt;Исследовательский отчёт&lt;/strong&gt; — содержит гипотезу, методы и анализ результатов&lt;/li&gt;
+&lt;li&gt;📕 &lt;strong&gt;Проектный отчёт&lt;/strong&gt; — описывает этапы разработки и реализации проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;общая-структура-отчёта&#34;&gt;Общая структура отчёта&lt;/h2&gt;
+&lt;p&gt;Хотя конкретные требования могут различаться, стандартная структура включает следующие разделы:&lt;/p&gt;
+&lt;h3 id=&#34;1-титульный-лист&#34;&gt;1. Титульный лист&lt;/h3&gt;
+&lt;p&gt;Содержит:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;название вуза/организации;&lt;/li&gt;
+&lt;li&gt;название дисциплины;&lt;/li&gt;
+&lt;li&gt;тему отчёта;&lt;/li&gt;
+&lt;li&gt;сведения об авторе и преподавателе;&lt;/li&gt;
+&lt;li&gt;дату и место выполнения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-введение&#34;&gt;2. Введение&lt;/h3&gt;
+&lt;p&gt;Во введении описываются:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;цель и задачи работы;&lt;/li&gt;
+&lt;li&gt;актуальность темы;&lt;/li&gt;
+&lt;li&gt;краткий обзор предметной области;&lt;/li&gt;
+&lt;li&gt;ожидаемые результаты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-основная-часть&#34;&gt;3. Основная часть&lt;/h3&gt;
+&lt;p&gt;Содержит подробное изложение сути работы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;описание метода, оборудования, алгоритма;&lt;/li&gt;
+&lt;li&gt;этапы выполнения;&lt;/li&gt;
+&lt;li&gt;используемые источники и инструменты;&lt;/li&gt;
+&lt;li&gt;расчёты, схемы, таблицы, графики.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Важно соблюдать логичность, последовательность и корректное оформление ссылок и обозначений.&lt;/p&gt;
+&lt;h3 id=&#34;4-результаты-и-обсуждение&#34;&gt;4. Результаты и обсуждение&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;анализ полученных данных;&lt;/li&gt;
+&lt;li&gt;выявленные закономерности, ошибки, ограничения;&lt;/li&gt;
+&lt;li&gt;сравнение с теоретическими ожиданиями или другими работами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-заключение&#34;&gt;5. Заключение&lt;/h3&gt;
+&lt;p&gt;Краткое подведение итогов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;достигнуты ли цели;&lt;/li&gt;
+&lt;li&gt;какие выводы можно сделать;&lt;/li&gt;
+&lt;li&gt;что можно улучшить или изучить дополнительно.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-список-использованных-источников&#34;&gt;6. Список использованных источников&lt;/h3&gt;
+&lt;p&gt;Оформляется по ГОСТ или другому стандарту, указанному преподавателем. Следует указывать только реально использованные источники.&lt;/p&gt;
+&lt;h3 id=&#34;7-приложения-если-есть&#34;&gt;7. Приложения (если есть)&lt;/h3&gt;
+&lt;p&gt;Дополнительные материалы: схемы, большие таблицы, листинги кода, фотографии.&lt;/p&gt;
+&lt;h2 id=&#34;технические-требования-к-оформлению&#34;&gt;Технические требования к оформлению&lt;/h2&gt;
+&lt;p&gt;Часто предъявляются следующие требования:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;шрифт Times New Roman, размер 12–14 pt;&lt;/li&gt;
+&lt;li&gt;межстрочный интервал — 1.5;&lt;/li&gt;
+&lt;li&gt;выравнивание по ширине;&lt;/li&gt;
+&lt;li&gt;отступ абзаца — 1.25 см;&lt;/li&gt;
+&lt;li&gt;поля: левое — 3 см, остальные — по 2 см;&lt;/li&gt;
+&lt;li&gt;нумерация страниц — с титульного не ставится, но считается;&lt;/li&gt;
+&lt;li&gt;заголовки — выделяются полужирным, с единым стилем оформления.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;советы-по-оформлению&#34;&gt;Советы по оформлению&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 Следи за единообразием: одинаковые шрифты, заголовки, отступы&lt;/li&gt;
+&lt;li&gt;📊 Используй таблицы и графики для визуализации данных&lt;/li&gt;
+&lt;li&gt;📌 Проверяй правописание и логичность текста&lt;/li&gt;
+&lt;li&gt;📎 Храни все версии — особенно важно при курсовых и дипломных&lt;/li&gt;
+&lt;li&gt;🧾 Не забывай про форматирование формул (если используешь LaTeX — это большой плюс)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Оформление отчёта — это важный этап, на котором твоя работа приобретает форму. Чёткая структура, грамотное изложение и внимание к деталям создают впечатление профессионализма и уважения к читателю. Даже самая сложная тема становится доступной, если она оформлена ясно и логично.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная неделя 20–26 мая</title>
+      <link>https://EstherSiabuMometolo.github.io/post/01/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/post/01/</guid>
+      <description>&lt;p&gt;📚 &lt;strong&gt;Эта неделя прошла под знаком программирования!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;На парах разбирали основы работы с циклами и условиями в Python. Задачи были интересные — особенно те, где нужно было обрабатывать пользовательский ввод. На практикуме впервые писала мини-калькулятор. Ошибалась, исправляла — и это дало уверенность.&lt;/p&gt;
+&lt;p&gt;Из математического анализа начали тему &lt;strong&gt;предела последовательности&lt;/strong&gt;. Вроде бы теория понятна, но как только доходит до ε–δ доказательств — приходится напрягаться. Хорошо, что преподаватель всё объясняет на примерах.&lt;/p&gt;
+&lt;p&gt;На выходных пересматривала конспекты и начала делать карточки в Anki — вдруг пригодится перед экзаменом.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://EstherSiabuMometolo.github.io/publication/02/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/publication/02/</guid>
+      <description>&lt;h2 id=&#34;что-такое-легковесные-языки-разметки&#34;&gt;Что такое легковесные языки разметки?&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это текстовые форматы, предназначенные для удобного написания и форматирования структурированных документов. Они позволяют создавать заголовки, списки, таблицы, ссылки и выделение текста &lt;strong&gt;без&lt;/strong&gt; необходимости писать сложный код HTML или LaTeX.&lt;/p&gt;
+&lt;p&gt;Цель таких языков — сделать документы читаемыми как в сыром виде, так и после преобразования в более богатые форматы: HTML, PDF, DOCX и др.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества&#34;&gt;Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ &lt;strong&gt;Простота синтаксиса&lt;/strong&gt; — писать можно в любом текстовом редакторе&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Гибкость&lt;/strong&gt; — легко конвертировать в HTML, PDF, EPUB и другие форматы&lt;/li&gt;
+&lt;li&gt;📦 &lt;strong&gt;Совместимость с системами контроля версий&lt;/strong&gt; — идеально подходят для Git&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Подходят для технической документации, блогов, заметок и научных публикаций&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Широкая поддержка&lt;/strong&gt; — используются в Jupyter, GitHub, Hugo, Obsidian и многих других инструментах&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;популярные-легковесные-языки&#34;&gt;Популярные легковесные языки&lt;/h2&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;p&gt;Один из самых популярных форматов. Поддерживается большинством современных платформ. Используется в блогах, документации, README-файлах на GitHub.&lt;/p&gt;
+&lt;p&gt;Примеры возможностей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Заголовки разных уровней&lt;/li&gt;
+&lt;li&gt;Списки (нумерованные и маркерованные)&lt;/li&gt;
+&lt;li&gt;Выделение текста (&lt;em&gt;курсив&lt;/em&gt;, &lt;strong&gt;жирный&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Блоки кода и цитаты&lt;/li&gt;
+&lt;li&gt;Встраивание изображений и ссылок&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Расширенные версии Markdown (например, &lt;strong&gt;CommonMark&lt;/strong&gt;, &lt;strong&gt;GitHub Flavored Markdown&lt;/strong&gt;, &lt;strong&gt;Pandoc Markdown&lt;/strong&gt;) позволяют использовать таблицы, формулы, сноски и другие элементы.&lt;/p&gt;
+&lt;h3 id=&#34;restructuredtext-rest&#34;&gt;reStructuredText (reST)&lt;/h3&gt;
+&lt;p&gt;Язык, разработанный для технической документации, особенно в Python-сообществе. Используется в проектах на Sphinx и документации Python.&lt;/p&gt;
+&lt;p&gt;Преимущества:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Тонкая настройка структуры документа&lt;/li&gt;
+&lt;li&gt;Поддержка перекрёстных ссылок, оглавлений, индексов&lt;/li&gt;
+&lt;li&gt;Возможность генерации профессиональной документации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;asciidoc&#34;&gt;AsciiDoc&lt;/h3&gt;
+&lt;p&gt;Более мощный, чем Markdown, но чуть сложнее по синтаксису. Поддерживает сложные конструкции: оглавление, вложенные разделы, боксы, примечания, атрибуты.&lt;/p&gt;
+&lt;p&gt;Применяется в:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Документации корпоративного уровня&lt;/li&gt;
+&lt;li&gt;Образовательных и инженерных проектах&lt;/li&gt;
+&lt;li&gt;Средах с высокими требованиями к оформлению&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-применяются&#34;&gt;Где применяются?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Документация к программному обеспечению&lt;/strong&gt; (например, GitHub Docs, Python Docs)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Научные публикации и тезисы&lt;/strong&gt; (в сочетании с Pandoc, LaTeX, Jupyter)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блоги и образовательные сайты&lt;/strong&gt; (например, Hugo, Jekyll, Zola)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Заметки и знания&lt;/strong&gt; (Obsidian, Logseq, Zettlr)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Публикация книг и учебников&lt;/strong&gt; (Leanpub, GitBook)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;в-научной-среде&#34;&gt;В научной среде&lt;/h2&gt;
+&lt;p&gt;Исследователи используют легковесные языки для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;написания отчётов и статей с возможностью преобразования в PDF/HTML;&lt;/li&gt;
+&lt;li&gt;подготовки презентаций на основе разметки;&lt;/li&gt;
+&lt;li&gt;ведения открытых лабораторных журналов;&lt;/li&gt;
+&lt;li&gt;автоматизации генерации документации к кодам и моделям.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Легковесные языки разметки — это универсальный и доступный инструмент для создания форматированного текста. Они объединяют простоту работы с обычным текстом и мощные возможности конвертации в профессиональные форматы. Освоение одного из таких языков — важный шаг к эффективной научной коммуникации, особенно в условиях цифровой среды.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git</title>
+      <link>https://EstherSiabuMometolo.github.io/publication/01/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://EstherSiabuMometolo.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;что-такое-управление-версиями&#34;&gt;Что такое управление версиями?&lt;/h2&gt;
+&lt;p&gt;Управление версиями — это способ отслеживания изменений в файлах проекта. Особенно это важно при работе над кодом, документацией, статьями или совместных проектах. Без систем контроля версий легко потерять важные изменения, перезаписать чужую работу или запутаться в том, какая версия документа актуальна.&lt;/p&gt;
+&lt;p&gt;Система контроля версий позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;хранить историю всех изменений;&lt;/li&gt;
+&lt;li&gt;откатываться к предыдущим версиям;&lt;/li&gt;
+&lt;li&gt;работать над проектом в параллельных ветках;&lt;/li&gt;
+&lt;li&gt;объединять изменения от разных участников;&lt;/li&gt;
+&lt;li&gt;отслеживать, кто и что поменял.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;зачем-нужен-git&#34;&gt;Зачем нужен Git?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; — самая популярная распределённая система управления версиями. Она используется в профессиональной разработке, научных проектах, стартапах, учебных курсах и даже при написании книг.&lt;/p&gt;
+&lt;p&gt;Преимущества Git:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📦 &lt;strong&gt;История изменений&lt;/strong&gt;: можно посмотреть, кто и когда изменил определённый файл или строку;&lt;/li&gt;
+&lt;li&gt;🌿 &lt;strong&gt;Ветки&lt;/strong&gt;: позволяют работать над новыми функциями или исправлениями, не мешая основной версии;&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Слияние изменений&lt;/strong&gt;: Git помогает автоматически объединить параллельные правки;&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Безопасность&lt;/strong&gt;: локальные коммиты позволяют не потерять данные даже без интернета;&lt;/li&gt;
+&lt;li&gt;🤝 &lt;strong&gt;Командная работа&lt;/strong&gt;: Git идеально подходит для распределённых команд;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Интеграция с GitHub, GitLab и другими платформами&lt;/strong&gt;: совместная работа, CI/CD, баг-трекинг, публикация документации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-работает-git&#34;&gt;Как работает Git?&lt;/h2&gt;
+&lt;p&gt;Git сохраняет проект в виде &lt;strong&gt;репозитория&lt;/strong&gt;. В нём содержится:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;рабочая директория с файлами проекта;&lt;/li&gt;
+&lt;li&gt;индекс (staging area), где собираются изменения перед фиксацией;&lt;/li&gt;
+&lt;li&gt;история коммитов (commit history), каждый из которых содержит снимок изменений.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Рабочий процесс в Git обычно включает следующие шаги:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Добавление файлов под версионный контроль&lt;/li&gt;
+&lt;li&gt;Внесение изменений и подготовка их к коммиту&lt;/li&gt;
+&lt;li&gt;Создание коммита с описанием&lt;/li&gt;
+&lt;li&gt;Передача изменений на удалённый репозиторий (push) или получение чужих изменений (pull)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;где-применяется-git&#34;&gt;Где применяется Git?&lt;/h2&gt;
+&lt;p&gt;Git используется не только в разработке программного обеспечения. Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;хранить и отслеживать изменения в &lt;strong&gt;научных статьях и LaTeX-файлах&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;публиковать результаты исследований&lt;/strong&gt; в формате Jupyter Notebook;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;работать над групповыми проектами&lt;/strong&gt; в университетах;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;вести образовательные курсы&lt;/strong&gt;, раздавая студентам шаблоны и проверяя их код;&lt;/li&gt;
+&lt;li&gt;управлять &lt;strong&gt;документацией и методическими материалами&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;git-и-научная-работа&#34;&gt;Git и научная работа&lt;/h2&gt;
+&lt;p&gt;Многие исследователи используют Git для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;репликации экспериментов&lt;/strong&gt; — можно зафиксировать версию кода и данных;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;прозрачности&lt;/strong&gt; — легче делиться методами и скриптами;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;публикации проектов&lt;/strong&gt; на GitHub/GitLab с возможностью открытого доступа;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;автоматизации&lt;/strong&gt; с помощью GitHub Actions (например, для генерации графиков, PDF или отчётов).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Git — это не просто технический инструмент. Это философия точности, ответственности и прозрачности в работе. Освоив Git, вы не только улучшите свои навыки разработки, но и научитесь лучше организовывать работу над любыми цифровыми проектами — будь то код, статьи или аналитика.&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
